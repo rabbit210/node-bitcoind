@@ -4,7 +4,7 @@ node-bitcoind is a simple wrapper for crypto coins (bitcoin, litecoin, bitcoin c
 
 ## Install
 
-`npm install node-coind`
+`npm install node-bitcoind`
 
 ## Examples
 
