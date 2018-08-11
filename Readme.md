@@ -1,6 +1,6 @@
-# node-coind
+# node-bitcoind
 
-node-coind is a simple wrapper for crypto coin daemon client's JSON-RPC API.
+node-bitcoind is a simple wrapper for crypto coins (bitcoin, litecoin, bitcoin cash) daemon client's JSON-RPC API. Forked from node-coind.
 
 ## Install
 
