@@ -1,7 +1,7 @@
 
-var coind = require('./lib');
+var bitcoind = require('./lib');
 
-var client = new coind.Client({
+var client = new bitcoind.Client({
   host: 'localhost',
   port: 15715,
   user: 'yourusername',
