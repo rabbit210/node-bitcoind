@@ -1,17 +1,16 @@
 {
   "name": "node-bitcoind",
-  "description": "Communicate with a bitcoin, litecoin, bitcoin cash daemon via JSON-RPC",
-  "version": "1.0.3",
+  "description": "Communicate with a bitcoin daemon 0.18.0 via JSON-RPC",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "keywords": [
     "bitcoind",
     "daemon",
     "rpc",
     "bitcoin",
-    "litecoin",
-    "dogecoin",
-    "bitcoincash",
-    "crypto"
+    "json",
+    "crypto",
+    "wallet"
   ],
   "author": "Bruno Kenj <bruno.kenj@gmail.com>",
   "repository": {
